@@ -1,2 +1,2 @@
 # Predictor-Ventas
-Predictos de ventas usando machine learning
+Predictor de ventas usando machine learning
